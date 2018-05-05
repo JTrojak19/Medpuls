@@ -10,7 +10,7 @@
                     <h4>Podstawowe informacje</h4>
                     <p>
                         NZOZ Medpuls istnieje od 2002 roku i znajduje się przy ulicy <b>Łanowej 83 w Łodzi</b>.
-                        Wizyty można umówić pod telefonem <b>42 6527233</b> lub <b<42 6522819</b>. Przychodnia jest otwarta
+                        Wizyty można umówić pod telefonem <b>42 6527233</b> lub <b>42 6522819</b>. Przychodnia jest otwarta
                         od godziny <b>8</b> do godziny <b>18</b>.
                     </p>
                 </div>
