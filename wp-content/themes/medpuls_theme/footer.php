@@ -3,10 +3,10 @@
         <div class="row">
             <div class="col s12 m6">
                 <div class="card-panel black white-text left">
-                    <i class="material-icons">call</i>
-                    <h5>042 652 28 19 </h5>
+                    <i class="fas fa-phone fa-2x"></i>
+                    <h5>426527233 <br>lub <br>426522819</h5>
                     <p>Zadzwoń do nas, aby umówić wizytę! </p>
-                    <i class="material-icons">watch</i>
+                    <i class="fas fa-clock fa-2x"></i>
                     <h5>Godziny otwarcia</h5>
                     <p>Poniedziałek-Piątek</p>
                     <p>8:00 - 18:00</p>
@@ -52,6 +52,14 @@
         var marker = new google.maps.Marker({
             position: {lat: 51.793600, lng: 19.401632},
             map: map,
+        });
+        var infoWindow = new google.maps.InfoWindow(
+            {
+                content: '<h5 class="black-text">Medpuls</h5><p class="black-text">ul. Łanowa 83, 91-110 Łódź</p>'
+            }
+        );
+        marker.addListener('click', function () {
+           infoWindow.open(map, marker);
         });
     }
 
