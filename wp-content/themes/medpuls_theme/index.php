@@ -1,11 +1,34 @@
 <?php get_header(); ?>
 <!-- Section: slider !-->
+    <section class="slider">
+        <ul class="slides">
+            <li>
+                <img src="<?php bloginfo('template_url'); ?>/image1-enhanced.jpg"> <!-- random image -->
+                <div class="caption center-align">
+                    <h3 class="white-text">Medpuls</h3>
+                    <h5 class="light white-text text-lighten-3">Niepubliczny Zakład Opieki Zdrowotnej "Medpuls"</h5>
+                </div>
+            </li>
+            <li>
+                <img src="<?php bloginfo('template_url'); ?>/image9-enhanced.jpg">
+                <div class="caption center-align">
+                    <h3 class="black text"></h3>
+                    <h5 class="light grey-text text-lighten-3"></h5>
+            </li>
+            <li>
+                <img src="<?php bloginfo('template_url'); ?>/image8-enhanced.jpg">
+                <div class="caption center-align">
+                    <h3 class="black text"></h3>
+                    <h5 class="light grey-text text-lighten-3"></h5>
+            </li>
+        </ul>
+    </section>
 <!--Icon boxes !-->
-<section id="usługi" class="section section-icons grey lighten-4 center">
+<section id="usługi" class="section section-icons #80cbc4 teal lighten-3 center">
     <div class="container">
         <div class="row">
             <div class="col s12 m12">
-                <div class="card-panel">
+                <div class="card-panel #e0f2f1 teal lighten-5">
                     <i class="fas fa-info fa-3x"></i>
                     <h4>Podstawowe informacje</h4>
                     <p>
@@ -16,7 +39,7 @@
                 </div>
             </div>
             <div class="col s12 m6">
-                <div class="card-panel">
+                <div class="card-panel #e0f2f1 teal lighten-5">
                     <i class="fas fa-user-md fa-3x"></i>
                     <h4>Lekarze przyjmujący</h4>
                     <p>W przychodni przyjmują lekarze posiadający następujące specjalizacje:</p>
@@ -32,7 +55,7 @@
                 </div>
             </div>
             <div class="col s12 m6">
-                <div class="card-panel">
+                <div class="card-panel #e0f2f1 teal lighten-5">
                     <i class="material-icons large black-text">g translate</i>
                     <h4>Dodatkowe informacje</h4>
                     <ul class="collection">

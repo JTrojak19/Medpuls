@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col s12 m6">
-                <div class="card-panel black white-text left">
+                <div class="card-panel #26a69a teal lighten-1 white-text left">
                     <i class="fas fa-phone fa-2x"></i>
                     <h5>426527233 <br>lub <br>426522819</h5>
                     <p>Zadzwoń do nas, aby umówić wizytę! </p>
@@ -19,7 +19,7 @@
         </div>
     </div>
 </section>
-<footer class="section black darken-2 white-text center">
+<footer class="section #26a69a teal lighten-1 white-text center">
     <p class="flow text">&copy <?php echo Date('Y');?> - <?php bloginfo('name'); ?> </p>
 </footer>
 <?php wp_footer(); ?>
@@ -33,9 +33,9 @@
     const slider = document.querySelector(".slider");
     M.Slider.init(slider, {
         indicators: false,
-        height: 500,
+        height: 510,
         transition: 500,
-        interval: 6000
+        interval: 9000
     });
 
     const ss = document.querySelectorAll(".scrollspy");
