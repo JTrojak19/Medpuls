@@ -8,10 +8,10 @@ get_header(); ?>
 <section class="section section-icons #80cbc4 teal lighten-3 center">
 <div class="container">
     <div class="row center">
-        <h3>Lekarze przyjmujący:</h3>
+        <h3 class="white-text">Lekarze przyjmujący:</h3>
     </div>
     <div class="row center">
-        <h4>Interniści:</h4>
+        <h4 class="white-text">INTERNIŚCI:</h4>
     </div>
     <div class="row">
         <div class="col s4 m4">
@@ -40,6 +40,7 @@ get_header(); ?>
             </div>
         </div>
     </div>
+    <h4 class="white-text">ALERGOLOG:</h4>
     <div class="row">
         <div class="col s4 m4">
             <div class="card-panel">
@@ -50,6 +51,7 @@ get_header(); ?>
             </div>
         </div>
     </div>
+    <h4 class="white-text">PEDIATRA:</h4>
     <div class="row">
         <div class="col s4 m4">
             <div class="card-panel">
@@ -59,6 +61,7 @@ get_header(); ?>
             </div>
         </div>
     </div>
+    <h4 class="white-text">UROLOG:</h4>
     <div class="row">
         <div class="col s4 m4">
             <div class="card-panel">
@@ -73,6 +76,7 @@ get_header(); ?>
             </div>
         </div>
     </div>
+    <h4 class="white-text">LEKARZE REHABILITACJI:</h4>
     <div class="row">
         <div class="col s4 m4">
             <div class="card-panel">
@@ -96,6 +100,7 @@ get_header(); ?>
             </div>
         </div>
     </div>
+    <h4 class="white-text">ENDYKRYNOLOG:</h4>
     <div class="row">
         <div class="col s4 m4">
             <div class="card-panel">
