@@ -27,8 +27,8 @@
                         <li class="collection-item">urolog</li>
                         <li class="collection-item">lekarz rehabilitacji</li>
                         <li class="collection-item">endykrynolog</li>
+                        <li class="collection-item">Oferujemy także rehabilitację komercyjną oraz posiadamy własny gabinet zabiegowy.</li>
                     </ul>
-                    <p>Oferujemy także rehabilitację komercyjną oraz posiadamy własny gabinet zabiegowy. </p>
                 </div>
             </div>
             <div class="col s12 m6">
