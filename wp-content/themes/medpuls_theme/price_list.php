@@ -1,3 +1,9 @@
+<?php
+/*
+Template Name: Price list
+Template Post Type: page
+*/
+get_header(); ?>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
 <section id="usługi" class="section section-icons grey lighten-4 center">
     <div class="container">
@@ -102,4 +108,4 @@
                 </div>
             </div>
         </div>
-
+<?php get_footer(); ?>
