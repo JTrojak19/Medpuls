@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7c5d3f7-e099-4f2c-816c-2ab7078522c1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Medpuls.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/medpuls_theme/price_list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-1-100x100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-1-1024x614.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-1-150x150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-1-300x180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-1-768x461.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-100x100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-1024x614.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-150x150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-300x180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee-768x461.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-1-100x100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-1-1024x614.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-1-150x150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-1-300x180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-1-768x461.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-100x100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-1024x614.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-150x150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-300x180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso-768x461.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/espresso.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-1-100x100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-1-1024x614.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-1-150x150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-1-300x180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-1-768x461.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-100x100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-1024x614.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-150x150.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-300x180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich-768x461.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/uploads/2018/05/sandwich.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-admin/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-admin/includes/file.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/includes/file.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-admin/includes/update-core.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/includes/update-core.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/medpuls_theme/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/medpuls_theme/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/template-parts/page/content-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-includes/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,14 +24,18 @@
       </file>
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/footer.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state relative-caret-position="986">
+              <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -88,17 +43,8 @@
       <file leaf-file-name="price_list.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/price_list.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="646">
+              <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -128,7 +74,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -199,28 +145,29 @@
       <workItem from="1525644005831" duration="364000" />
       <workItem from="1525644631047" duration="101000" />
       <workItem from="1525721160458" duration="5350000" />
-      <workItem from="1525981080864" duration="4027000" />
+      <workItem from="1525981080864" duration="7916000" />
+      <workItem from="1526069325267" duration="98000" />
+      <workItem from="1526069440328" duration="1858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9842000" />
+    <option name="totallyTimeSpent" value="15687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -229,6 +176,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +194,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/footer.php">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/index.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -262,13 +249,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/price_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/price_list.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -290,9 +271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/footer.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -300,17 +278,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        <state relative-caret-position="986">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/medpuls_theme/price_list.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="646">
+          <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
         </state>
       </provider>
     </entry>
