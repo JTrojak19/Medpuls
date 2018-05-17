@@ -52,7 +52,7 @@
                         <li class="collection-item">endykrynolog</li>
                         <li class="collection-item">Oferujemy także rehabilitację komercyjną oraz posiadamy własny gabinet zabiegowy.</li>
                     </ul>
-                    <p>>Oferujemy także rehabilitację komercyjną oraz posiadamy własny gabinet zabiegowy.</p>
+                    <p><a href="http://localhost/wordpress/wordpress/medpuls/cennik-zabiegow/">Oferujemy także rehabilitację komercyjną oraz posiadamy własny gabinet zabiegowy.</a></p>
                 </div>
             </div>
             <div class="col s12 m6">
