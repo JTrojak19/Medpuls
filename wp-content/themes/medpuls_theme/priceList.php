@@ -4,7 +4,7 @@ Template Name: Price list Template
 Template Post Type: page
 */
 get_header(); ?>
-	<section id="usługi" class="section section-icons grey lighten-4 center">
+    <section class="section section-icons #80cbc4 teal lighten-3 center">
 		<div class="container">
 			<div class="row">
                 <div class="col s12 m6">
@@ -23,7 +23,7 @@ get_header(); ?>
                 </div>
                 <div class="col s12 m6">
 					<div class="card-panel">
-						<h4>Cennik zabiegów rehabilitacyjnych</h4>
+						<h5>Cennik zabiegów rehabilitacyjnych</h5>
 						<table class="striped">
 							<thead>
 							<tr>
@@ -121,4 +121,5 @@ get_header(); ?>
 				</div>
 			</div>
 		</div>
+    </section>
 <?php get_footer(); ?>
