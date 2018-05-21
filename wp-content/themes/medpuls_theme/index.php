@@ -50,9 +50,8 @@
                         <li class="collection-item">urolog</li>
                         <li class="collection-item">lekarz rehabilitacji</li>
                         <li class="collection-item">endykrynolog</li>
-                        <li class="collection-item">Oferujemy także rehabilitację komercyjną oraz posiadamy własny gabinet zabiegowy.</li>
+                        <li class="collection-item"><a href="http://localhost/wordpress/wordpress/medpuls/cennik-zabiegow/">Oferujemy także rehabilitację komercyjną oraz posiadamy własny gabinet zabiegowy.</a></li>
                     </ul>
-                    <p><a href="http://localhost/wordpress/wordpress/medpuls/cennik-zabiegow/">Oferujemy także rehabilitację komercyjną oraz posiadamy własny gabinet zabiegowy.</a></p>
                 </div>
             </div>
             <div class="col s12 m6">
