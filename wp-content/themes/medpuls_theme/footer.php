@@ -1,13 +1,20 @@
 <footer class="page-footer #26a69a teal lighten-1">
     <div class="container">
         <div class="row">
-            <div class="col l6 s12">
+            <div class="col s">
                 <h5 class="white-text">Kontakt</h5>
                 <p><i class="fas fa-phone fa-1x"></i> 426527233 lub 426522819</p>
                 <p>Zadzwoń do nas, aby umówić wizytę! </p>
                 <h5>Godziny otwarcia</h5>
                 <p><i class="fas fa-clock fa-1x"></i> Poniedziałek-Piątek</p>
                 <p>8:00 - 18:00</p>
+                <h5>Adres</h5>
+                <p><i class="fas fa-map-marker"></i> ul. Łanowa 83, 91-110 Łódź</p>
+            </div>
+            <div class="col s12">
+                <div id="map">
+
+                </div>
             </div>
         </div>
     </div>
@@ -28,7 +35,6 @@
     const slider = document.querySelector(".slider");
     M.Slider.init(slider, {
         indicators: false,
-        height: 510,
         transition: 500,
         interval: 9000
     });

@@ -4,13 +4,13 @@ Template Name: Price list Template
 Template Post Type: page
 */
 get_header(); ?>
-	<section id="usługi" class="section section-icons grey lighten-4 center">
+	<section id="usługi" class="section section-icons #80cbc4 teal lighten-3 center">
 		<div class="container">
 			<div class="row">
-				<div class="col s12 m12">
+				<div class="col">
 					<div class="card-panel">
 						<h4>Cennik zabiegów rehabilitacyjnych</h4>
-						<table class="striped">
+						<table class= "responsive-table striped">
 							<thead>
 							<tr>
 								<th>Nr</th>

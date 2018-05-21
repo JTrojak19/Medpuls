@@ -26,7 +26,6 @@
 </head>
 <body id="home">
 <!-- Navbar !-->
-<div class="navbar-fixed">
     <nav class="#b2dfdb teal lighten-4">
         <div class="container">
             <div class="nav-wrapper">
@@ -34,7 +33,7 @@
                 <a href="#" data-target="mobile-nav" class="sidenav-trigger">
                     <i class="material-icons">menu</i>
                 </a>
-                <ul class="right hide-on-med-and-down">
+                <ul id="mobile-nav" class="right hide-on-med-and-down">
                     <?php
                     wp_nav_menu( array(
                         'theme_location' => 'my-custom-menu',
@@ -44,16 +43,11 @@
             </div>
         </div>
     </nav>
-</div>
 <ul class="sidenav" id="mobile-nav">
-    <li>
-        <a href="#home">Home</a>
-    </li>
-    <li>
-        <a href="#uslugi">Usługi</a>
-    </li>
-    <li>
-        <a href="#kontakt">Kontakt</a>
-    </li>
+	<?php
+	wp_nav_menu( array(
+		'theme_location' => 'my-custom-menu',
+		'container_class' => 'custom-menu-class' ) );
+	?>
 </ul>
 

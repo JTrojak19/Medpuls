@@ -8,3 +8,28 @@ body{
 .bold {
     font-weight: bold;
 }
+a {
+    color: #009688;
+}
+.menu{
+    font-weight: bold;
+}
+@media screen and (max-width: 600px){
+    .slider{
+        height: 10em !important;
+    }
+    .slides{
+        height: 10em !important;
+    }
+    h2{
+        font-size: 0.90em;
+        font-weight: bold;
+    }
+    h3{
+        font-size: 0.75em;
+        font-weight: bold;
+    }
+}
+.pagination li.active{
+    background-color: #009688;
+}
