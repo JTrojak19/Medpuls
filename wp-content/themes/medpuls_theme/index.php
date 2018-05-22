@@ -5,6 +5,7 @@ if(! is_front_page()):
     <div class="container">
         <div class="row">
             <div class="col s12 m12">
+<<<<<<< HEAD
 				<?php if (have_posts()) :
 					while (have_posts()) :
 						the_post();?>
@@ -16,6 +17,7 @@ if(! is_front_page()):
                         </div>
 					<?php endwhile;?>
 				<?php endif;?>
+=======
             </div>
         </div>
         <div class="row center">

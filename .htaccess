@@ -2,11 +2,11 @@
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /przychodnia/wordpress-4.9.5/wordpress-4.9.5/wordpress/
+RewriteBase /wordpress/wordpress/medpuls/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /przychodnia/wordpress-4.9.5/wordpress-4.9.5/wordpress/index.php [L]
+RewriteRule . /wordpress/wordpress/medpuls/index.php [L]
 </IfModule>
 
 # END WordPress

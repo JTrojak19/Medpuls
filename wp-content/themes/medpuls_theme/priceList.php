@@ -4,13 +4,27 @@ Template Name: Price list Template
 Template Post Type: page
 */
 get_header(); ?>
-	<section id="usługi" class="section section-icons #80cbc4 teal lighten-3 center">
+    <section class="section section-icons #80cbc4 teal lighten-3 center">
 		<div class="container">
 			<div class="row">
-				<div class="col">
+                <div class="col s12 m6">
+                    <div class="card-panel">
+                        <h5>Gabinet zabiegowy:</h5>
+                        <h6>EKG, spirometria, pobrania krwi</h6>
+                        <p><span class="bold">Poniedziałek:</span></p>
+                        <p>15:00 - 18:00 testy i odczulanie</p>
+                        <p><span class="bold">Wtorek:</span></p>
+                        <p>7:30 - 9:00  pobrania krwi</p>
+                        <p>15:00 - 18:00  szczepienia dzieci</p>
+                        <p><span class="bold">Czwartek:</span></p>
+                        <p>7:30 - 9:00  pobrania krwi</p>
+                        <p>15:00 - 18:00 testy i odczulanie</p>
+                    </div>
+                </div>
+                <div class="col">
 					<div class="card-panel">
-						<h4>Cennik zabiegów rehabilitacyjnych</h4>
-						<table class= "responsive-table striped">
+						<h5>Cennik zabiegów rehabilitacyjnych</h5>
+						<table class="responsive-table striped">
 							<thead>
 							<tr>
 								<th>Nr</th>
@@ -107,4 +121,5 @@ get_header(); ?>
 				</div>
 			</div>
 		</div>
+    </section>
 <?php get_footer(); ?>
