@@ -1,6 +1,6 @@
 <?php
 /**
- * Template part for displaying page content in price_list.php
+ * Template part for displaying page content in page.php
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
@@ -21,10 +21,12 @@
 		<?php
 			the_content();
 
-			wp_link_pages( array(
-				'before' => '<div class="page-links">' . __( 'Pages:', 'twentyseventeen' ),
-				'after'  => '</div>',
-			) );
+			wp_link_pages(
+				array(
+					'before' => '<div class="page-links">' . __( 'Pages:', 'twentyseventeen' ),
+					'after'  => '</div>',
+				)
+			);
 		?>
 	</div><!-- .entry-content -->
 </article><!-- #post-## -->

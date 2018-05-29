@@ -41,6 +41,12 @@
 
     const ss = document.querySelectorAll(".scrollspy");
     M.ScrollSpy.init(ss, {});
+    document.addEventListener('DOMContentLoaded', function() {
+        var elems = document.querySelectorAll('.collapsible');
+        console.log(elems);
+        var instances = M.Collapsible.init(elems, {accordion: true});
+        console.log(instances);
+    });
 </script>
 <script>
     function initMap(){
@@ -51,18 +57,19 @@
         var map = new google.maps.Map(document.getElementById('map'), options);
 
         var marker = new google.maps.Marker({
-            position: {lat: 51.793600, lng: 19.401632},
+            position: {lat: 51.793812, lng: 19.403789},
             map: map,
         });
         var infoWindow = new google.maps.InfoWindow(
             {
-                content: '<h5 class="black-text">Medpuls</h5><p class="black-text">ul. Łanowa 83, 91-110 Łódź</p>'
+                content: '<h5 class="black-text">Medpuls</h5><p class="black-text">ul. Łanowa 83, 91-110 Łódź</p><p>426527233 lub 426522819</p>'
             }
         );
         marker.addListener('click', function () {
            infoWindow.open(map, marker);
         });
     }
+
 
 </script>
 <script async defer

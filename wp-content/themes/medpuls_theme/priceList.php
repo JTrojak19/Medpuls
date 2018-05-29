@@ -7,9 +7,9 @@ get_header(); ?>
     <section class="section section-icons #80cbc4 teal lighten-3 center">
 		<div class="container">
 			<div class="row">
-                <div class="col s12 m6">
+                <div class="col s12 m12">
                     <div class="card-panel">
-                        <h5>Gabinet zabiegowy:</h5>
+                        <h5 id="gabinetzabiegowy">Gabinet zabiegowy:</h5>
                         <h6>EKG, spirometria, pobrania krwi</h6>
                         <p><span class="bold">Poniedziałek:</span></p>
                         <p>15:00 - 18:00 testy i odczulanie</p>

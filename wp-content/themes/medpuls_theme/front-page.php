@@ -9,6 +9,7 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
 	<!--Let browser know website is optimized for mobile-->
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url') ?>">
+    <script type="text/javascript" href="<?php bloginfo('template_url');?>"></script>
 	<link rel="stylesheet"
 	      href="https://fonts.googleapis.com/css?family=Tangerine">
 
@@ -29,7 +30,7 @@
 	<nav class="#b2dfdb teal lighten-4">
 		<div class="container">
 			<div class="nav-wrapper">
-                <a href="#" class="brand-logo"><span class="bold"><?php bloginfo('name');?></span></a>
+                <a href="<?php echo get_home_url(); ?>" class="brand-logo"><span class="bold"><?php bloginfo('name');?></span></a>
 				<a href="#" data-target="mobile-nav" class="sidenav-trigger">
 					<i class="material-icons">menu</i>
 				</a>
@@ -80,18 +81,17 @@
             <div class="col s12">
                 <div class="card-panel #e0f2f1 teal lighten-5">
                     <i class="fas fa-info fa-3x"></i>
-                    <h4>Podstawowe informacje</h4>
-                    <p>
+                    <p class="basicinfo">
                         NZOZ Medpuls istnieje od 2002 roku i znajduje się przy ulicy <span class="bold">Łanowej 83 w Łodzi</span>.</br>
-                        Wizyty można umówić pod telefonem <span class="bold">426527233 lub 426522819</span>. </br>Przychodnia jest otwarta
-                        od godziny <span class="bold">8</span> do godziny <span class="bold">18</span>.
+                        Wizyty można umówić pod telefonem <span class="bold">42 652 72 33 lub 42 652 28 19</span>. </br>Przychodnia jest otwarta
+                        od godziny <span class="bold">8:00</span> do godziny <span class="bold">18:00</span>.
                     </p>
                 </div>
             </div>
             <div class="col s12">
                 <div class="card-panel #e0f2f1 teal lighten-5">
                     <i class="fas fa-user-md fa-3x"></i>
-                    <h4>Lekarze przyjmujący</h4>
+                    <h4>Specjaliści</h4>
                     <p>W przychodni przyjmują lekarze posiadający następujące specjalizacje:</p>
                     <ul class="collection">
                         <a href="specjalisci#internisci"><li class="collection-item">internista</li></a>
@@ -99,14 +99,17 @@
                         <a href="specjalisci#pediatra"><li class="collection-item">pediatra</li></a>
                         <a href="specjalisci#urolog"><li class="collection-item">urolog</li></a>
                         <a href="specjalisci#rehabilitacja"><li class="collection-item">lekarz rehabilitacji</li></a>
-                        <a href="specjalisci#endykrynolog"><li class="collection-item">endykrynolog</li></a>
+                        <a href="specjalisci#endokrynolog"><li class="collection-item">endokrynolog</li></a>
                     </ul>
-                    <p>Oferujemy także rehabilitację komercyjną oraz posiadamy własny gabinet zabiegowy. </p>
+                    <p>Oferujemy także rehabilitację komercyjną oraz posiadamy własny
+                        <a href="cennik-uslug-rehabilitacyjnych#gabinetzabiegowy">gabinet zabiegowy. </a></p>
+                    <p>Prowadzimy <a href="blog">badania kliniczne</a>, czyli programy badań mające na celu ocenę skuteczności leków,
+                    nowych schematów leczenia, które przyczyniają się do postępu w medycynie</p>
                 </div>
             </div>
             <div class="col s12">
                 <div class="card-panel #e0f2f1 teal lighten-5">
-                    <i class="material-icons large black-text">g translate</i>
+                    <i class="fas fa-info-circle fa-3x"></i>
                     <h4>Dodatkowe informacje</h4>
                     <ul class="collection">
                         <li class="collection-item"><i class="fas fa-home"></i> wizyty domowe przyjmowane telefonicznie lub za
@@ -184,12 +187,12 @@
         var map = new google.maps.Map(document.getElementById('map'), options);
 
         var marker = new google.maps.Marker({
-            position: {lat: 51.793600, lng: 19.401632},
+            position: {lat: 51.793812, lng: 19.403789},
             map: map,
         });
         var infoWindow = new google.maps.InfoWindow(
             {
-                content: '<h5 class="black-text">Medpuls</h5><p class="black-text">ul. Łanowa 83, 91-110 Łódź</p>'
+                content: '<h5 class="black-text">Medpuls</h5><p class="black-text">ul. Łanowa 83, 91-110 Łódź</p><p>426527233 lub 426522819</p>'
             }
         );
         marker.addListener('click', function () {
